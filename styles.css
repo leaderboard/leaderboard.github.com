@@ -3,10 +3,20 @@ html {
   background: #f8f4f0;
 }
 
+body {
+  width: 960px;
+  margin: 0 auto;
+}
+
+#ads {
+  width: 160px;
+  float: right;
+}
+
 ol {
   list-style-type: none;
+  margin-left: 160px;
   width: 600px;
-  margin: 0 auto;
   font-style: italic;
 }
 
