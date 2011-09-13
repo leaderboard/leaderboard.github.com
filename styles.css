@@ -8,9 +8,13 @@ body {
   margin: 0 auto;
 }
 
-#ads {
+#side {
   width: 160px;
   float: right;
+}
+
+#bottom {
+  margin-left: 80px;
 }
 
 ol {
