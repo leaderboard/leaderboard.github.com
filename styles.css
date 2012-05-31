@@ -3,23 +3,13 @@ html {
   background: #f8f4f0;
 }
 
-body {
-  width: 940px;
-  margin: 0 auto;
-}
-
-#side {
-  width: 160px;
-  float: right;
-}
-
 #bottom {
-  margin-left: 80px;
+  margin: 0 auto;
 }
 
 ol {
   list-style-type: none;
-  margin-left: 120px;
+  margin: 0 auto;
   width: 600px;
   font-style: italic;
 }
